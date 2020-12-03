@@ -2,7 +2,7 @@
 <p><em>Atualmente sou estudante de Análise e Desenvolvimento de sistemas na <b>Fatec Sorocaba </b>, trabalho como desenvolvedora Front-End Jr e sou bastante ativa na comunidade de TI da cidade de Sorocaba/SP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
 
-### <img src="https://media.giphy.com/media/2hgczp2GtzQY9286HM/giphy.gif" width="50"> Um pouco mais sobre mim...  
+### Um pouco mais sobre mim...  
 ```javascript
 const linds = {
   pronouns: "she" | "her",
