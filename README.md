@@ -1,5 +1,5 @@
-<h2> Oiee, sou a Lindsay! <img src="https://media.giphy.com/media/F4a3ugD96Xl28/giphy.gif" width="50"></h2>
-<p><em>Sou formada em Análise e Desenvolvimento de sistemas na <b>Fatec Sorocaba </b>, trabalho como desenvolvedora Front-End e sou bastante ativa na comunidade de TI da cidade de Sorocaba/SP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
+<h2> Oiee, sou a Lindsay! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<p><em>Sou formada em Análise e Desenvolvimento de sistemas na <b>Fatec Sorocaba </b>, trabalho como desenvolvedora Front-End e sou bastante ativa na comunidade de TI da cidade de Sorocaba/SP </em></p>
 
 
 ### Um pouco mais sobre mim...  
