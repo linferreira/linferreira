@@ -1,5 +1,5 @@
 
-<img align="left" src="https://raw.githubusercontent.com/linferreira/linferreira/main/octocat-1665779228277.png" alt="Octocat" width="320" /> 
+<img align="left" src="https://raw.githubusercontent.com/linferreira/linferreira/main/portrait.png" alt="Octocat" width="320" /> 
 
 ```csharp
 linferreira@gmail.com
